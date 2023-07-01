@@ -1,0 +1,40 @@
+C:\Users\Admin\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.Form1.resources
+C:\Users\Admin\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.Resources.resources
+C:\Users\Admin\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\bin\Debug\form1.exe
+C:\Users\Admin\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\bin\Debug\form1.pdb
+C:\Users\Admin\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\bin\Debug\form1.xml
+C:\Users\Admin\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.exe
+C:\Users\Admin\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.xml
+C:\Users\Admin\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.pdb
+C:\Users\Admin\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.frmLogin.resources
+C:\Users\Admin\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.frmMain.resources
+C:\Users\bdas2\Downloads\Bishal Das_P07202206C_vb_project-20230119T072232Z-001\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.exe
+C:\Users\bdas2\Downloads\Bishal Das_P07202206C_vb_project-20230119T072232Z-001\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.xml
+C:\Users\bdas2\Downloads\Bishal Das_P07202206C_vb_project-20230119T072232Z-001\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.pdb
+C:\Users\bdas2\Downloads\Bishal Das_P07202206C_vb_project-20230119T072232Z-001\Bishal Das_P07202206C_vb_project\form1\form1\bin\Debug\form1.exe
+C:\Users\bdas2\Downloads\Bishal Das_P07202206C_vb_project-20230119T072232Z-001\Bishal Das_P07202206C_vb_project\form1\form1\bin\Debug\form1.pdb
+C:\Users\bdas2\Downloads\Bishal Das_P07202206C_vb_project-20230119T072232Z-001\Bishal Das_P07202206C_vb_project\form1\form1\bin\Debug\form1.xml
+C:\Users\bdas2\Downloads\Bishal Das_P07202206C_vb_project-20230119T072232Z-001\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.Form1.resources
+C:\Users\bdas2\Downloads\Bishal Das_P07202206C_vb_project-20230119T072232Z-001\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.frmLogin.resources
+C:\Users\bdas2\Downloads\Bishal Das_P07202206C_vb_project-20230119T072232Z-001\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.frmMain.resources
+C:\Users\bdas2\Downloads\Bishal Das_P07202206C_vb_project-20230119T072232Z-001\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.Resources.resources
+C:\Users\bdas2\Downloads\Bishal Das_P07202206C_vb_project-20230119T072232Z-001\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.vbproj.GenerateResource.Cache
+C:\Users\bdas2\Downloads\Bishal Das_P07202206C_vb_project-20230119T072232Z-001\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.frmReg.resources
+C:\Users\bdas2\Downloads\Bishal Das_P07202206C_vb_project-20230119T072232Z-001\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.frmBook.resources
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.exe
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.xml
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.pdb
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\bin\Debug\form1.exe
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\bin\Debug\form1.pdb
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\bin\Debug\form1.xml
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.Form1.resources
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.frmBook.resources
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.frmLogin.resources
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.frmMain.resources
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.frmReg.resources
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.Resources.resources
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.vbproj.GenerateResource.Cache
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.frmCustomer.resources
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.frmFac.resources
+C:\Users\bdas2\Desktop\Bishal Das_P07202206C_vb_project\form1\form1\obj\x86\Debug\form1.frmBishal.resources
